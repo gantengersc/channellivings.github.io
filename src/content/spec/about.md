@@ -1,9 +1,29 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# Tentang Channel Living
 
-::github{repo="saicaca/fuwari"}
+Selamat datang di **Channel Living** - blog lifestyle yang didedikasikan untuk berbagi inspirasi dan tips seputar kehidupan sehari-hari.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## Misi Kami
+
+Kami percaya bahwa hidup yang berkualitas dimulai dari hal-hal sederhana. Melalui Channel Living, kami ingin:
+
+- 🏠 **Menginspirasi** gaya hidup yang nyaman dan bermakna
+- 💡 **Berbagi tips** praktis untuk kehidupan sehari-hari
+- 🌱 **Mendorong** pilihan hidup yang lebih sehat dan berkelanjutan
+- ✨ **Menciptakan** konten yang bermanfaat dan mudah dipahami
+
+## Apa yang Akan Anda Temukan
+
+Di blog ini, Anda akan menemukan berbagai konten menarik seperti:
+
+- **Home & Living**: Tips dekorasi, organisasi rumah, dan menciptakan ruang yang nyaman
+- **Lifestyle**: Gaya hidup sehat, produktivitas, dan keseimbangan hidup
+- **Tips & Tricks**: Solusi praktis untuk masalah sehari-hari
+- **Inspirasi**: Ide-ide kreatif untuk meningkatkan kualitas hidup
+
+## Mari Terhubung
+
+Kami senang mendengar dari Anda! Ikuti perjalanan kami di berbagai platform sosial media dan jangan ragu untuk berbagi pengalaman atau bertanya.
+
+---
+
+*Terima kasih telah mengunjungi Channel Living. Mari bersama-sama menciptakan kehidupan yang lebih baik, satu langkah kecil setiap harinya.*

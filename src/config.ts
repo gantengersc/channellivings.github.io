@@ -30,12 +30,10 @@ export const siteConfig: SiteConfig = {
 		depth: 2, // Maximum heading depth to show in the table, from 1 to 3
 	},
 	favicon: [
-		// Leave this array empty to use the default favicon
-		// {
-		//   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
-		//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-		//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-		// }
+		{
+			src: '/favicon/icon.svg',    // Path of the favicon, relative to the /public directory
+			sizes: '32x32',              // Size of the favicon
+		}
 	],
 };
 
@@ -53,7 +51,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/channel-living-avatar.svg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Channel Living",
 	bio: "Berbagi inspirasi gaya hidup, tips rumah tangga, dan konten menarik seputar kehidupan sehari-hari.",
 	links: [
