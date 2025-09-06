@@ -69,12 +69,11 @@ Channel Living bukan hanya blog, tapi komunitas orang-orang yang ingin hidup leb
 
 Ingatlah bahwa perubahan terbaik dimulai dari langkah kecil. Tidak perlu sempurna, yang penting adalah memulai. Channel Living akan menemani setiap langkah perjalanan Anda menuju kehidupan yang lebih bermakna.
 
-<div style="position:relative; width:100%; padding-top:56.25%; margin:auto;">
   <iframe src="https://res.cloudinary.com/dlyyesshf/video/upload/v1757136830/uploaded_videos/uploaded_videos/video_90246678ab227757a514699f077f691f.mp4"
           style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
           allowfullscreen>
   </iframe>
-</div>
+
 
 
 
