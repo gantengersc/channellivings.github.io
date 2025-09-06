@@ -1,6 +1,6 @@
 ---
 title: Selamat Datang di Channel Living!
-published: 2024-01-15
+published: 2025-09-06
 description: Post pertama kami di Channel Living - blog lifestyle yang akan menemani perjalanan hidup Anda dengan tips, inspirasi, dan konten menarik seputar kehidupan sehari-hari.
 tags: [Welcome, Lifestyle, Home Living, Inspirasi]
 category: Lifestyle
